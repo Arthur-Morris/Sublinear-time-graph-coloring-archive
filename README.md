@@ -18,10 +18,17 @@ there are signifagent problems with this code, i am in the prosses of evaluating
  
 file list explanation: 
 .gitignore                              - ignore
+
 Arthur Morris Honours Project Final.pdf - the report itself
+
 README.md                               - this file
+
 TheGreedyAlgorithm.cpp                  - an implementation of the currant state of the art greedy algorithm
+
 ackAlgorithm.cpp                        - an implementation of the algorithim exactly as described in the paper
+
 myAlgorithm.cpp                         - an implementation of the algorithim with my alterations
+
 random.cpp                              - a random test case generator
+
 Comp 4905 project midterm report.pdf    - the midterm report
