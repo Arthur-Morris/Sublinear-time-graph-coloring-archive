@@ -5,7 +5,7 @@ Overview of the algorithm (from midterm report)
 
 The algorithm works as follows:
 
-     “After sampling O (logn) colors for each vertex randomly, the total number of monochromatic edges is only O (n·log2(n))with high probability …, by computing                     a proper coloring of G using only these O(n·log2(n)) edges … we obtain a (∆ + 1) coloring of G.”  
+     “After sampling O (logn) colors for each vertex randomly, the total number of monochromatic edges is only O (n·log2(n))with high probability …, by computing a proper coloring of G using only these O(n·log2(n)) edges … we obtain a (∆ + 1) coloring of G.”  
      
      (Assadi, Chen, Khanna, 2018: section 1.1)
 Or more formally: 
